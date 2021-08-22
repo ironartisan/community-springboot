@@ -24,12 +24,17 @@
 ## 相关执行
 
 #### flyway
-版本迭代
-mvn flyway:migrate
-版本修复
-mvn flyway:repair
-清除数据
-mvn flyway:clean
+* 版本迭代
+
+> mvn flyway:migrate
+
+* 版本修复
+
+> mvn flyway:repair
+
+* 清除数据
+
+> mvn flyway:clean
 
 
 
